@@ -32,7 +32,7 @@ Execute:
 
 ## Troubleshooting ?
 
-* [ZeeshanCodez]() - Feel free to message if you encounter any troubleshoots
+* [ZeeshanCodez](https://telegram.me/Z01010100) - Feel free to text me on telegram if you encounter any troubleshoots
 
 ## License
 
