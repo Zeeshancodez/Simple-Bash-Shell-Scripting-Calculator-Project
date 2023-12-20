@@ -15,25 +15,25 @@
 # Function to perform addition
 function add() {
   result=$((num1 + num2))
-  echo "The result is: $result"
+  echo "The result is: $result Coded by ZeeshanCodez"
 }
 
 # Function to perform subtraction
 function subtract() {
   result=$((num1 - num2))
-  echo "The result is: $result"
+  echo "The result is: $result Coded by ZeeshanCodez"
 }
 
 # Function to perform multiplication
 function multiply() {
   result=$((num1 * num2))
-  echo "The result is: $result"
+  echo "The result is: $result Coded by ZeeshanCodez"
 }
 
 # Function to perform division
 function divide() {
   result=$((num1 / num2))
-  echo "The result is: $result"
+  echo "The result is: $result Coded by ZeeshanCodez"
 }
 
 # Main function
